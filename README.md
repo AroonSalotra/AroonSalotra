@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AroonSalotra
-- 👀 I’m interested in Front-End development
+- 👀 I’m currently a Web Developer at CTT-Group
 - 🌱 I’m currently learning React
 - 📫 How to reach me aroonsalotra@gmail.com
 
