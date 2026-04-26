@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AroonSalotra
-- 👀 I’m currently a Web Developer at CTT-Group
-- 🌱 I’m currently learning React
+- 👀 I’m currently a Software Developer at Objectway
+- 🌱 I’m currently learning C#
 - 📫 How to reach me aroonsalotra@gmail.com
 
 <!---
